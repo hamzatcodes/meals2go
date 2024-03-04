@@ -11,11 +11,11 @@ export const mocks = {
 };
 
 export const mockImages = [
-  'https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made-600x899.jpg',
-  'https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-oranges-ice-600x750.jpg',
-  'https://www.foodiesfeed.com/wp-content/uploads/2020/08/detail-of-pavlova-strawberry-piece-of-cake-600x800.jpg',
-  'https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-baking-600x750.jpg',
-  'https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-pancakes-600x750.jpg',
-  'https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table-600x400.jpg',
-  'https://www.foodiesfeed.com/wp-content/uploads/2019/02/pizza-ready-for-baking-600x400.jpg',
+  'https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D',
+  'https://img.freepik.com/free-photo/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.jpg',
+  'https://wallpapercave.com/wp/wp3108352.jpg',
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ztSWzipxmhnNO7yXkq3D9fafh2CaABAHiA&usqp=CAU',
+  'https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/sweet_potatoes_beans_68614_16x9.jpg',
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWc3dej8L6e8E9kkb7YhnksBu7Y05f8v2QVw&usqp=CAU',
+  'https://b.zmtcdn.com/data/pictures/3/20173713/ea4c849368fafddb2e94d9132befedf7.jpeg',
 ];
